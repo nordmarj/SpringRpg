@@ -1,0 +1,11 @@
+:spring_version: current
+:spring_boot_version: current
+:Controller: https://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/stereotype/Controller.html
+:View: https://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/web/servlet/View.html
+:Model: https://docs.spring.io/spring/docs/{spring_version}/javadoc-api/org/springframework/ui/Model.html
+:images: https://raw.githubusercontent.com/spring-guides/gs-handling-form-submission/main/images
+:toc:
+:icons: font
+:source-highlighter: prettify
+:project_id: spring-rpg
+
